@@ -7,4 +7,4 @@ Cette application php doit permettre d'enregistrer tout frais engagé par les vi
 
 ## Auteurs
 
-* **Yoan Jouve** - [Aveann](https://github.com/JouveYoan
+* **Yoan Jouve** - [JouveYoan](https://github.com/JouveYoan)
